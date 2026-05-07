@@ -1,0 +1,19 @@
+body {
+  font-family: Georgia, serif;
+  text-align: center;
+  background-color: #fff8f6;
+  color: #5c4b51;
+}
+
+header {
+  padding: 40px;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+img {
+  border-radius: 20px;
+  margin-top: 20px;
+}
